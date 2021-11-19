@@ -1,2 +1,2 @@
-# first-day-demo
-demo repo - may delete later 
+
+I didnt like the default text 
